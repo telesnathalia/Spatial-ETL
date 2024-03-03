@@ -1,1 +1,1 @@
-This repository is shows works about Spatial ETL applications.
+This repository shows works about Spatial ETL applications.
