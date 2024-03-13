@@ -1,6 +1,6 @@
 
 
-# Integrated Approach to Global Land Use and Land Cover Data Harmonization
+# Integrated Approach to Global Land Use and Land Cover Reference Data Harmonization
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Harmonization of global reference samples and EO/gridded datasets, aligning with GPW classes, to optimize their integration into the GPW machine learning workflow 
